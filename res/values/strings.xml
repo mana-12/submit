@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">rssreader</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_rss_reader">RssReader</string>
+    <string name="title_activity_rss_japan_reader">RssJapanReader</string>
+</resources>
